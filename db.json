@@ -25,7 +25,33 @@
             "password": "param"
           }
     ],
-    "user_final" :[],
+    "user_final" :[
+        
+        {
+            "name" : "jigar",
+            "email" : "jigar@gmail.com",
+            "password" : "jigar123",
+            "state" :"gujarat"
+        },
+        {
+            "name" : "purv",
+            "email" : "purv@gmail.com",
+            "password" : "purv123",
+            "state" :"gujarat"
+        },
+        {
+            "name" : "deep",
+            "email" : "deep@gmail.com",
+            "password" : "deep123",
+            "state" :"gujarat"
+        },
+        {
+            "name" : "milap",
+            "email" : "milap@gmail.com",
+            "password" : "milap123",
+            "state" :"gujarat"
+        }
+    ],
     
     "bus_scheduled": [
         {

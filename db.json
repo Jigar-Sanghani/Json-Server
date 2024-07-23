@@ -57,6 +57,8 @@
     "final-2user": [],
         "courses": [
         {
+            
+            "id": "1",
             "name": "Learn Microsoft Flow",
             "category": "Office Productivity",
             "image": "https://www.shutterstock.com/shutterstock/photos/1932042689/display_1500/stock-photo-businessman-using-mobile-smart-phone-business-global-internet-connection-application-technology-1932042689.jpg",
@@ -68,6 +70,8 @@
             "clean_url": "https://www.udemy.com/course/pythonbasics/"
         },
         {
+            
+            "id": "2",
             "name": "HTML 5 With Quizzes And Python 3 Complete Course",
             "category": "IT & Software",
             "image": "https://img-b.udemycdn.com/course/480x270/5009916_fc64.jpg",
@@ -79,6 +83,8 @@
             "clean_url": "https://www.udemy.com/course/html-5-with-quizzes-and-python-3-complete-course-2023/"
         },
         {
+            
+            "id": "3",
             "name": "230+ Exercises – Python for Data Science – NumPy + Pandas",
             "category": "Development",
             "image": "https://img-c.udemycdn.com/course/480x270/4656122_aa2f_2.jpg",
@@ -90,6 +96,8 @@
             "clean_url": "https://www.udemy.com/course/python-for-data-science-numpy-pandas-exercises/"
         },
         {
+            
+            "id": "4",
             "name": "Learn Microsoft Flow",
             "category": "Office Productivity",
             "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Are_The_Types_of_Technology.jpg",
@@ -101,6 +109,8 @@
             "clean_url": "https://www.udemy.com/course/linear-algebra-basics-for-machine-learning/"
         },
         {
+            
+            "id": "5",
             "name": "100% OFF- Python,Flask Framework And Django Course For Beginners",
             "category": "IT & Software",
             "image": "https://img-c.udemycdn.com/course/480x270/3330326_a986.jpg",
@@ -112,6 +122,8 @@
             "clean_url": "https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/"
         },
         {
+            
+            "id": "6",
             "name": "Numpy For Data Science – Real Time Exercises",
             "category": "Development",
             "image": "https://img-c.udemycdn.com/course/480x270/5429576_b2e8.jpg",
@@ -123,6 +135,8 @@
             "clean_url": "https://www.udemy.com/course/python-numpy-exercises/"
         },
         {
+            
+            "id": "7",
             "name": "Ace the Python PCEP-30-02 Exam - 2024 [Mock Test Series # 1]",
             "category": "IT & Software",
             "image": "https://img-c.udemycdn.com/course/480x270/6079513_af04.jpg",
@@ -134,6 +148,8 @@
             "clean_url": "https://www.udemy.com/course/ace-the-python-pcep-30-02-exam-2024-mock-test-series-1/"
         },
         {
+            
+            "id": "8",
             "name": "100% OFF- Complete Python 2024 For Absolute Beginners",
             "category": "Development",
             "image": "https://img-c.udemycdn.com/course/480x270/4992432_ef17_3.jpg",
@@ -145,6 +161,8 @@
             "clean_url": "https://www.udemy.com/course/complete-python-2023-for-absolute-beginners/"
         },
         {
+            
+            "id": "9",
             "name": "C++ Code Like you are in MATRIX | Mastering C++ in 12 Hours",
             "category": "C++ Programming Languages",
             "image": "https://img-c.udemycdn.com/course/480x270/4391676_c2dc_7.jpg",
@@ -156,6 +174,8 @@
             "clean_url": "https://www.udemy.com/course/c-programming-for-everyone/"
         },
         {
+            
+            "id": "10",
             "name": "Gemini AI Course for Beginners",
             "category": "Data Science",
             "image": "https://img-c.udemycdn.com/course/750x422/6069639_51c3_4.jpg",
